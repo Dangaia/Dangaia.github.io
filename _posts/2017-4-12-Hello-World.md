@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Metis Chicago: Week 1, getting my bearings, and Project Benson
+title: Metis Chicago - Week 1, getting my bearings, and Project Benson
 ---
 
 print(Hello World!)
